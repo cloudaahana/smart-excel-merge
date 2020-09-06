@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rental-agency-288514",
+  "private_key_id": "10d809ef393a7ca1f73a9d616f5e3c79ec96d798",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCu0AmG0oTka3KM\nG1fiG0IrH3zwgqgXIFW2nuA1cNn6wLmOG1ZcZfFat0K1Quqp8cI9IH5RkhnfL6Xi\nnkrDOQ4smaTB5xJpNqz/e/t6QLciH2hbfOR5U55jRm9o/BkMZ7UXNSkKiAdHtCrx\n8G0KRYTlgqxxshmQHljT3GC3/1DjVxDQwUuinrQeS+YMCosQh0KDpk5Nxz08AL/j\nSiEC2EDBn1Xl3T/WSQ+u1qocmwR4kfDuWE5yp3BRE19Bj7zjyKt32d3BgREDw97P\npkc01x7Zk5hariC4Ja2WHnRVjdnSsQmCLO50WhryFCdYSJGEfzz5UMv74G+7d5sC\nj0IoENuZAgMBAAECggEAAZ01407tD3NfB8RmXbX4+M81/v4D2Y/QvsqNgSzRNG+k\nXvepZtnBnl/wD56mLkrHS3tx8ySdVMpatqKVx+LuWrLR+sDckohg1UySpDy1/CyM\nUQDwlp6zKRFAzNg8DnlkKopQ/lIGeC7lkR2SUiyVZy2bVELr2cDv+sfPhE9pEqpK\nl/TLUH8tXz0hhyqkFvCC9zK6oKGgn1EBcGO/iL7zSqwTsAYAiXol/MkeQREg83gY\nG8n7Z3xwauoZKtnPsUDwmFmHYjHmVBgRcB22qwPrJSQ6embb9zcbdntTAK12UtDC\nUCtDGwug+DTq8EOCal6jFE2tu7rywRt9gd1Q1zDL4QKBgQDlYvyzpIvPxjuVAG7N\nObMRJ8NGEBj03Dq+tpES//VKRz5PmyI4aDhKCUiqI2czeb1ntPra8DVi4/LCGVEi\nZp+L5yy5Zxb/am/5hHJqBMOT+M5VnlprAvy/g6Yb6FlXV1ootkmCfbCYlJdZcqcb\nm6KnAC3sYG3UXa2gbP81vPANIQKBgQDDGCWs+BoImntXh5jiIoM34WIuN1U6fXBV\ngyh0qDN8Uo/Uzh00Y1udU3ANU7uAyRVWB/z3W2EeQG+IFDYfxqm+FmoYXDK+oVtJ\nG/fUNPUsZ+/Hn/+UCx1TkTYydPDSHB4U6lD7aDSibZx4yVxtV08mJ1n16K8On/I5\n5GDYHabHeQKBgQCvzbHHLLFKyK8Zf39sInCvET6EEApQgAk16U4+tZUVHI0RDeCo\nQpgBhiP+4atStFcJiJdJ/Retdu6y/BxGtUhKPR716aCimLzBC1V1E7mhSus4i2jY\n4y06yncgpG70laov0aV9MT+LcTaeA1U3v4xlWanYo/8I59MORPtEAE4qgQKBgEBX\ngGVxVbSsri0J7WP3GeueC3FOkm8924R4QylmJ8TCvejjKUKT2i0izXu3t8kbiEvd\nSpKRso/1lFL+x3LnZCfq4Ia0MZApSx/rd2qnJIzGoo/ltraui7d51rQBWUMSPuGK\n/bZMgb9oAwja7/6notTkeYjeeo2KNqrdJQthjBWRAoGAJQyPUfqouh6wCsVEEAhb\n9jQIx+jkGZCO5xY9+bnhnnq0crePd1pKsAKzb1Bs2XikqYqHJqf+wE6p2+w8yE28\nB47tB0lVgJakx/uxxSpw1wE0iAlXsTC5XoknlIDA4XtN4eLTi96OIpnfCdtI3OFo\nn3drxAQNcBnmg8Mus01xXXc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloudaahana@rental-agency-288514.iam.gserviceaccount.com",
+  "client_id": "100436830332907196975",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloudaahana%40rental-agency-288514.iam.gserviceaccount.com"
+}

@@ -1,3 +1,13 @@
+.idea/*
+target/
+*.txt
+*.xls;xlsx;csv
+*.iml
+*.iml/
+SmartExcelMerge.iml
+
+*.~
+
 # Compiled class file
 *.class
 
