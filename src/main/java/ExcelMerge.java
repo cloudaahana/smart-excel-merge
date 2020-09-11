@@ -3,6 +3,7 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 import java.io.*;
 import java.util.ArrayList;
+import java.util.Scanner;
 
 public class ExcelMerge {
 
@@ -453,10 +454,22 @@ public class ExcelMerge {
         } catch (Exception e) {
             System.out.println("ERROR! Conversion Failed, Please Re-run the Merge operation.\n");
         }
-        try {
-            PythonHandler.executePython();
-        } catch (Exception e) {
-            System.out.print("Failed to Execute Python Upload Script");
+
+        System.out.println("Do you want the data to be uploaded in BigQuery Table? Y(Yes)/ Other Key to Exit");
+        Scanner scan = new Scanner(System.in);
+        String input = scan.next();
+        if(input.trim().equals("y")|| input.trim().equals("yes")) {
+            try {
+                System.out.println("Starting | Upload Job");
+                PythonHandler.executePython();
+            } catch (Exception e) {
+                System.out.print("Failed to Execute Python Upload Script");
+            }
+        }
+        else
+        {
+           System.out.println("Exiting. Skipped Upload");
+           System.exit(0);
         }
     }
 }
